@@ -1,5 +1,7 @@
 # 💫 About Me:
-- 👯 I'm looking to colaborate as a MERN stack Developer
+I am Manuel Esteban Florez Lopez, a Systems Engineer from Cartagena De Indias, Colombia. I am now seeking my first tech job in the industry. With a reliable work ethic and a creative mindset, I am eager to contribute my skills and learn from experienced professionals in a collaborative environment.
+
+Proficient in web development using the MERN stack, I bring a strong foundation in various programming languages and frameworks to the table. I am continuously updating my knowledge to stay current with industry trends. I am driven by a belief in the transformative power of technology and strive to make a positive impact through my work. If you are seeking a dedicated and motivated Systems Engineer with a passion for software development, I would be delighted to explore potential opportunities and contribute to the success of your organization. Let's join forces and shape the future together.
 
 
 ## 🌐 Socials:
